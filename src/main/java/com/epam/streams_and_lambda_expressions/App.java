@@ -11,7 +11,7 @@ public class App
     public static void main( String[] args )
     {
         String[] stringCheck= {"abb","qweaasd","acs","v","aee","evd","asdasda","3ewq","3we","aaa","bca","caa","Acc","","456abc","iuQvy7"};
-        String[] pallandromeCheck= {"abba","hello","helleh","hellolleh","abdfd","a","haah","abab","abcba"};
+        String[] pallandromeCheck= {"abba","hello","hellh","hellolleh","abdfd","a","haah","abab","abcba"};
         
         
         List<String> randomStrings=Arrays.asList(stringCheck);
